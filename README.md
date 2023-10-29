@@ -11,11 +11,7 @@
    <a href="https://www.linkedin.com/in/mohamed-ibrahim-05b8b81a9/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
- 
-  </a>  
-  <a href="https://twitter.com/Neji_14" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
+
   </p>
   
 
@@ -23,6 +19,9 @@
 </div>
 <p >I specialize in the use of Dart Programming Language and its' various frameworks and libraries such as Bloc, Getx, flutter screenutil and many of Flutter Libraries.
 </p>
+
+
+## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
