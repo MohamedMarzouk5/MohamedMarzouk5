@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MobileDeveloper;" /></a>
 </p>
 
-###
+##
 <div align="center">
     </a>
    <a href="[https://www.linkedin.com/in/ifeanyi-nneji-719989235](https://www.linkedin.com/in/mohamed-ibrahim-05b8b81a9/)" target="_blank">
