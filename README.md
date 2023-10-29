@@ -1,13 +1,13 @@
 
 <h2 align="left">Hi 👋! My name is Mohamed Marzouk and I'm a Mobile Developer from Egypt</h2>
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+MobileDeveloper;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile Developer;" /></a>
 </p>
 
 ##
 <div align="center">
     </a>
-   <a href="[https://www.linkedin.com/in/ifeanyi-nneji-719989235](https://www.linkedin.com/in/mohamed-ibrahim-05b8b81a9/)" target="_blank">
+   <a href="https://www.linkedin.com/in/mohamed-ibrahim-05b8b81a9/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
   />
