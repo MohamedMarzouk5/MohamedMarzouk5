@@ -40,11 +40,11 @@
 
 ## Projects
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/MohamedMarzouk5/masiaf">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github.com/MohamedMarzouk5/masiaf?username=Mohamed&repo=Masiaf&theme=tokyonight" />
+  <img align="center" src="https://github.com/MohamedMarzouk5/masiaf?username=MohamedMarzouk5&repo=Masiaf&theme=tokyonight" />
 
 </a>  
 
