@@ -38,6 +38,24 @@
 
 ###
 
+## Projects
+
+<a href="https://github.com/Nneji123/Website-Blocker">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github.com/MohamedMarzouk5/masiaf?username=Mohamed&repo=Masiaf&theme=tokyonight" />
+
+</a>  
+
+<a href="https://github.com/Nneji123/Alien-Shooter">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
+
+</a> 
+
 
 
 <p align="center">
