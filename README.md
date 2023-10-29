@@ -10,7 +10,7 @@
    <a href="https://www.linkedin.com/in/mohamed-ibrahim-05b8b81a9/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
-  />
+  
   
 </div>
 <p >I specialize in the use of Dart Programming Language and its' various frameworks and libraries such as Bloc, Getx, flutter screenutil and many of Flutter Libraries.
