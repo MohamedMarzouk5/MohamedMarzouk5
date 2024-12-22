@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋! My name is Mohamed Marzouk</h2>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile+Developer;" /></a>
@@ -11,15 +10,16 @@
    <a href="https://www.linkedin.com/in/mohamed-ibrahim-05b8b81a9/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-
-  </p>
+</p>
   
-
-  
-</div>
 <p >I specialize in the use of Dart Programming Language and its' various frameworks and libraries such as Bloc, Getx, flutter screenutil and many of Flutter Libraries.
 </p>
 
+## GitHub Stats 📊
+<div align="center">
+  <img src="https://github-readme-stats-theta-rosy-43.vercel.app/api?username=MohamedMarzouk5&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats-theta-rosy-43.vercel.app/api/top-langs/?username=MohamedMarzouk5&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <div align="left">
@@ -46,5 +46,3 @@
 
 -----
 Credits: [MohamedMarzouk](https://github.com/MohamedMarzouk5)
-
-###
